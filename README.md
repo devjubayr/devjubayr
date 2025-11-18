@@ -46,15 +46,15 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=crosbow&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=devjubayr&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app?user=crosbow&theme=react&hide_border=true" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app?user=devjubayr&theme=react&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crosbow&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjubayr&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 </div>
